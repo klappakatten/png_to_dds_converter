@@ -7,7 +7,10 @@
 Default compression format => BC7_UNORM_SRGB
 
 Naming Convention for changing compression mode
+
 _c in name => BC7_UNORM_SRGB (for colormaps)
+
 _n in name => BC5_UNORM (for normalmaps)
+
 _m in name => BC7_UNORM (for materials)
 
